@@ -152,6 +152,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 For any questions or feedback, please contact the repository owner:
 
-- **Name**: Ramesh Aravind  
-- **GitHub**: [rameshlinuxadmin](https://github.com/rameshlinuxadmin)
-- **Mail**: rameshannaunivceg@gmail.com
+- **Name**: Vasanthakumar  
+- **GitHub**: [Vasanthakumar](https://github.com/igVasanthakumar)
+- **Mail**: kvasanth112001@gmail.com
