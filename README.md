@@ -79,8 +79,8 @@ rameshlinuxadmin-webform/
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rameshlinuxadmin/webform.git
-cd webform
+git clone https://github.com/igVasanthakumar/web-application.git
+cd web-application
 ```
 
 #### 2. Deploy with Docker
@@ -136,12 +136,12 @@ To download this repository as a ZIP file:
 Alternatively, use the `wget` command:
 
 ```bash
-wget https://github.com/rameshlinuxadmin/webform/archive/refs/heads/main.zip -O webform.zip
+wget https://github.com/igVasanthakumar/web-application/archive/refs/heads/main.zip -O web-application.zip
 ```
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:-
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
